@@ -52,7 +52,6 @@ The website was developed using:
 - CSS3
 - JavaScript
 
-*Update this section if additional technologies or frameworks were used.*
 
 ---
 
@@ -62,14 +61,8 @@ Stay connected with Aureola Vox through our social media platforms.
 
 | Platform | Link |
 |---|---|
-| Instagram | [Add Instagram Link](https://instagram.com/) |
-| Facebook | [Add Facebook Link](https://facebook.com/) |
-| LinkedIn | [Add LinkedIn Link](https://linkedin.com/) |
-| X (Twitter) | [Add X Link](https://x.com/) |
-| TikTok | [Add TikTok Link](https://tiktok.com/) |
-| YouTube | [Add YouTube Link](https://youtube.com/) |
-
-Replace the placeholder links with Aureola Vox's official social media URLs. Remove platforms that the organization does not use.
+| Instagram | https://www.instagram.com/aureola_vox.01?jplx=MWl1Yjk2b3ZlZHl3dg== |
+| TikTok | https://www.tiktok.com/@aureola.vox3?_r=1&_t=ZS-9BaZAxbe4kn |
 
 ---
 
@@ -78,10 +71,10 @@ Replace the placeholder links with Aureola Vox's official social media URLs. Rem
 For enquiries, collaborations, partnerships, and other information, reach out through the official channels below.
 
 - **Organization:** Aureola Vox
-- **Email:** [Insert Official Email]
-- **Phone:** [Insert Official Phone Number]
+- **Email:**  aureolavoxcommunity0226@gmail.com
+- **Phone:**  +234-806-067-2505
 - **Location:** Nigeria
-- **Website:** [Insert Hosted Website URL]
+- **Website:** https://aureolavox.vercel.app
 
 ---
 
@@ -100,46 +93,13 @@ Visit the **Get Involved** page on our website to explore available opportunitie
 
 ---
 
-## 📂 Project Structure
-
-```text
-aureola-vox/
-│
-├── index.html
-│
-├── pages/
-│   ├── about.html
-│   ├── programs.html
-│   ├── impact.html
-│   ├── events.html
-│   ├── get-involved.html
-│   └── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-│
-└── README.md
-```
-
-*Adjust the structure above to match the actual repository.*
-
----
-
 ## 👨‍💻 Developer
 
 Designed and developed by **Zainab Pamilerin Musa**.
 
-- **Role:** Frontend Web Developer
+- **Role:** Upcoming FullStack Web Developer 🫣
 - **GitHub:** https://github.com/zainabwmusa
-- **Portfolio:** [Your Portfolio URL](#)
+- **Portfolio:** https://zainab-musa.vercel.app
 
 ---
 
