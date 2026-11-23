@@ -46,7 +46,7 @@ header nav ul {
   display: flex;
 }
 
-header a {
+header a, header .btn {
   text-decoration: none;
   color: #fff;
   display: block;
@@ -54,24 +54,10 @@ header a {
   font-weight: 600;
 }
 
-header a:hover {
+header a:hover, header .btn:hover {
   background-color: #d4af65;
   color: rgb(0, 0, 0);
   border-radius: 5px;
-}
-
-header .btn {
-  border-radius: 5px;
-  color: #d4af65;
-  transition-duration: 0.5s;
-  background-color: #d4af65;
-  color: #000000;
-}
-
-header .btn:hover {
-  color: #fff;
-  background: transparent;
-  box-shadow: inset 0px 0px 10px 4px #d4af65;
 }
 
 header input[type="checkbox"] {
